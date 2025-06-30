@@ -1,4 +1,4 @@
-<img src=https://github.com/user-attachments/assets/74e660a1-6c4d-4f44-bdcc-9a4a89cffc35 alt="Leticia Gama banner" style="width: 100%; max-width: 1280px; border-radius: 8px;" />
+![11zon_cropped](https://github.com/user-attachments/assets/f2383a36-8196-4689-b778-20d11684784b)
 ## Oie! Eu sou a Leticia Gama ❤️
 
 - 🔭 Hoje trabalho com Desenvolvimento Front-End
