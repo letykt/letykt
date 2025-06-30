@@ -1,4 +1,4 @@
-![Leticia Gama (4)](https://github.com/user-attachments/assets/384061a7-3696-4f70-bd12-c7166d36e945)
+<img src="github-banner.png" alt="Leticia Gama banner" style="width:100%; max-width:1280px;" />
 ## Oie! Eu sou a Leticia Gama ❤️
 
 - 🔭 Hoje trabalho com Desenvolvimento Front-End
