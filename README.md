@@ -1,4 +1,4 @@
-<img src=https://github.com/user-attachments/assets/bea57dfe-3dcf-4f05-9fbe-5b4f59075673 alt="Leticia Gama banner" style="width: 100%; max-width: 1280px; border-radius: 8px;" />
+![Leticia Gama (1280 x 640 px) (1)](https://github.com/user-attachments/assets/74e660a1-6c4d-4f44-bdcc-9a4a89cffc35)
 ## Oie! Eu sou a Leticia Gama ❤️
 
 - 🔭 Hoje trabalho com Desenvolvimento Front-End
@@ -6,5 +6,6 @@
 - 📫 Contate-me no email: lelegamaoliver@gmail.com
 
 - 😄 Pronomes: ela/dela
+
 
 
