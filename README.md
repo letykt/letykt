@@ -1,12 +1,5 @@
 ![11zon_cropped](https://github.com/user-attachments/assets/f2383a36-8196-4689-b778-20d11684784b)
-
-<h3 align="center"> 
-  Oie! Eu sou a Leticia Gama ❤️
-</h3>
-
-<p align="center">
-     <b>👩‍💻 Dev em formação</b>
-</p>
+## Oie! Eu sou a Leticia Gama ❤️
 
 - 🔭 Hoje trabalho com Desenvolvimento Front-End
 - 🌱 Estou na faculdade de ADS
