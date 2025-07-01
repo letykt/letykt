@@ -1,11 +1,12 @@
 ![11zon_cropped](https://github.com/user-attachments/assets/f2383a36-8196-4689-b778-20d11684784b)
+##Oie! Eu sou a Leticia Gama
 
 <table align="center">
   <tr>
     <td>
-<br>- 🌸 Comecei minha jornada na tecnologia com suporte técnico e infraestrutura.
-<br>- 🎓 Atualmente curso Analise e Desenvolvimento de Sistemas.
-<br>- 👩‍💻 Estou estudando Desenvolvimento Front-end.
+    <br>- 🌸 Comecei minha jornada na tecnologia com suporte técnico e infraestrutura.
+    <br>- 🎓 Atualmente curso Analise e Desenvolvimento de Sistemas.
+    <br>- 👩‍💻 Estou estudando Desenvolvimento Front-end.
     </td>
     <td align="right">
       <img src="./imagens/fotor-20250701173142.png" width="150px"/>
