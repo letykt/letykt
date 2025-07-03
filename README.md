@@ -1,7 +1,9 @@
 <h1>Oii! Sou a Leticia <3</h1>
+<div align="center">
 
 ![11zon_cropped](https://github.com/user-attachments/assets/f2383a36-8196-4689-b778-20d11684784b)
----
+</div>
+
  <p align="center">
   <a href="mailto:lelegamaoliver@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
